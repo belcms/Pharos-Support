@@ -14,7 +14,7 @@ Pharos is your sanctuary for deep reading. The app combines immersive 3D environ
 ## Repository Structure
 * `index.html`: Main support page containing contact information.
 * `icon2.png`: App icon visual asset used on the page.
-* *(Future)* `privacy.html`: Dedicated page for the Privacy Policy terms.
+* `privacy.html`: Dedicated page for the Privacy Policy terms.
 
 ## Contact
 For questions, issues, or feedback, please reach out via email: `isabelmarras13@gmail.com`
